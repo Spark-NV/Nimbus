@@ -1,0 +1,1 @@
+Check your email, copy the API key and paste it into the Nimbus settings ( Dont forget to actually enable the key by clicking the link in the email! )

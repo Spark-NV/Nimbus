@@ -1,0 +1,1 @@
+Copy your API key and paste it into the Nimbus settings.

@@ -1,0 +1,1 @@
+Go to www.omdbapi.com and click "API Key" at the top of the page

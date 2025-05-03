@@ -1,0 +1,65 @@
+faq
+  faq_screen.dart
+home
+  home_screen.dart
+indexers
+  indexer_settings_provider.dart
+  orionoid_api_key_service.dart
+  orionoid_api_key_service.g.dart
+  orionoid_api_service.dart
+  orionoid_auth_provider.dart
+  orionoid_auth_response.dart
+  orionoid_auth_response.freezed.dart
+  orionoid_auth_response.g.dart
+  orionoid_auth_widget.dart
+  orionoid_provider.dart
+  orionoid_response.dart
+  orionoid_response.g.dart
+  orionoid_settings.dart
+  orionoid_settings_widget.dart
+  torrentio_provider.dart
+  torrentio_repository.dart
+  torrentio_response.dart
+  torrentio_response.g.dart
+  torrentio_service.dart
+instructions
+  omdb_instructions_screen.dart
+  premiumize_instructions_screen.dart
+main.dart
+manual
+  manual_screen.dart
+  torrent_handler_service.dart
+  torrent_sites.dart
+omdb
+  omdb_api_key_service.dart
+  omdb_api_key_service.g.dart
+  omdb_repository.dart
+  omdb_search_result.dart
+  omdb_search_result.freezed.dart
+  omdb_search_result.g.dart
+  omdb_service.dart
+  omdb_service.g.dart
+premiumize
+  premiumize_account_info.dart
+  premiumize_api_key_service.dart
+  premiumize_api_key_service.g.dart
+  premiumize_api_service.dart
+  premiumize_api_service.g.dart
+  premiumize_repository.dart
+  premiumize_repository.g.dart
+  premiumize_screen.dart
+  premiumize_transfer.dart
+  premiumize_transfers_screen.dart
+search
+  combined_streams_provider.dart
+  combined_streams_screen.dart
+  search_provider.dart
+  search_provider.g.dart
+  search_screen.dart
+  tv_show_selection_dialog.dart
+settings
+  settings_initializer_provider.dart
+  settings_screen.dart
+utils
+  registry_service.dart
+  sidebar.dart

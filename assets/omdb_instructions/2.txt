@@ -1,0 +1,1 @@
+Sign up for a free api key by entering your email address, a name, and your reason for usage(A reason such as for a personal project is fine)
