@@ -63,25 +63,25 @@ Nimbus is a desktop application built with Flutter, designed for Windows (MacOS 
    - Dart SDK
    - Windows development environment
 
-2. **Installation**
+2. **Compilation**
    ```bash
    git clone [repository-url]
    cd nimbus
    flutter pub run build_runner build --delete-conflicting-outputs
    flutter build windows
    ```
-
-3. **API Keys**
-   - OMDB API key required if you want to search movies/shows
-   - Premiumize API key required
-   - Orionoid API key required if you plan to use it
-
-4. **testing before compilation**
+3. **testing before compilation**
    ```bash
    flutter clean
    flutter pub run build_runner build --delete-conflicting-outputs
    flutter run -d windows
    ```
+
+## 📋 Usage
+   - Download the precompiled exe or compile it yourself and run it. Note: this app has no installation it comes only as portable exe.
+   - Set required api keys and any optionals you might need
+   - Either search for your desired movie/show or use a site to find what your needing cached. Note: if you integrate with windows allowing for association of torrent/magnet you must keep the exe in the same directory or else you need to re integrate. integration works by adding a registery entry telling windows Nimbus is the default program for magnet links and torrent files. if the exe is moved the windows registry needs updating to reflect that thus need to reclick the button.
+
 
 ## 📝 Development Guidelines
 
